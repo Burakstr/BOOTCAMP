@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; configuration.title = "ADD TO CART"; ObjectID = "85v-M4-rFt"; */
+"85v-M4-rFt.configuration.title" = "Sepete Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "85v-M4-rFt"; */
+"85v-M4-rFt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "Ieb-wO-qyL"; */
+"Ieb-wO-qyL.text" = "Teslimat";
+
+/* Class = "UILabel"; text = "$ 3.50"; ObjectID = "LUa-gT-vQc"; */
+"LUa-gT-vQc.text" = "₺ 60";
+
+/* Class = "UILabel"; text = "İce Latte"; ObjectID = "ZqH-PR-trt"; */
+"ZqH-PR-trt.text" = "İce Latte";
+
+/* Class = "UILabel"; text = "An iced version of caffe latte prepared by adding one part espresso and three parts frothed hot milk. One of the indispensable drinks of summer."; ObjectID = "cs4-ug-KZ3"; */
+"cs4-ug-KZ3.text" = "Bir ölçü espresso ve üç ölçü köpüklü sıcak süt ilavesiyle hazırlanan Caffe Latte'nin buzlu versiyonu. Yazın vazgeçilmez içeceklerinden biri.";
+
+/* Class = "UIButton"; configuration.title = "Grande"; ObjectID = "k9o-fM-Db1"; */
+"k9o-fM-Db1.configuration.title" = "Orta";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k9o-fM-Db1"; */
+"k9o-fM-Db1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "kUg-Sq-yhX"; */
+"kUg-Sq-yhX.text" = "5 Dakika";
+
+/* Class = "UIButton"; configuration.title = "Tall"; ObjectID = "kv2-I4-18b"; */
+"kv2-I4-18b.configuration.title" = "Küçük";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kv2-I4-18b"; */
+"kv2-I4-18b.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Venti"; ObjectID = "pBo-ZE-8UX"; */
+"pBo-ZE-8UX.configuration.title" = "Büyük";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pBo-ZE-8UX"; */
+"pBo-ZE-8UX.normalTitle" = "Button";
